@@ -132,7 +132,8 @@ body {
   width: 100%;
   border-radius: 12px 0px 0px 12px;
 }
-@media (max-width: 380px) {
+
+@media(max-width: 390px){
   .main_container {
     max-height: 605px;
     height: 100%;
