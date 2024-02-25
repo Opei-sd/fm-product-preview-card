@@ -115,11 +115,8 @@ body {
 
 .btn_text {
   margin-right: 10px;
-}
-
-/* .mobile{
   display: none;
-} */
+}
 
 .left_side {
   flex: 1;
@@ -133,7 +130,7 @@ body {
   border-radius: 12px 0px 0px 12px;
 }
 
-@media(max-width: 390px){
+@media (max-width: 368px) {
   .main_container {
     max-height: 605px;
     height: 100%;
